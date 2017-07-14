@@ -1,0 +1,7 @@
+C:\Users\Thuy\AppData\Local\Temporary Projects\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\Connect4\Connect4\obj\Debug\Connect4.csprojResolveAssemblyReference.cache
